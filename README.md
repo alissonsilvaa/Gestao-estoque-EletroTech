@@ -1,7 +1,7 @@
 ![logo](https://github.com/alissonsilvaa/Gestao-estoque-EletroTech/blob/main/logo2.png)
 # Gestao-estoque-EletroTech
 
-Título do Projeto
+**Título do Projeto**
 • Sistema de Gestão de Estoque EletroTech
 ### Índice
 • Uma seção de índice que lista e fornece links rápidos para as diferentes seções

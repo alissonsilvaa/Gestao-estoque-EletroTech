@@ -1,4 +1,4 @@
-![logo](https://github.com/alissonsilvaa/Gestao-estoque-EletroTech/blob/main/logo.png)
+![logo](https://github.com/alissonsilvaa/Gestao-estoque-EletroTech/blob/main/logo2.png)
 # Gestao-estoque-EletroTech
 
 Título do Projeto

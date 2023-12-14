@@ -19,6 +19,7 @@ desenvolvimento do projeto, como Java, SQLite.
 ### Estrutura do Banco de Dados
 • Estrutura do banco de dados, as principais tabelas e
 seus atributos: Fornecedor, Produto, Fornecedor Produto, e Movimentação de Estoque.
+
 ![Modelagem_DB](https://github.com/alissonsilvaa/Gestao-estoque-EletroTech/blob/main/IMG/Modelagem_DB.jpeg)
 ### Configuração do Projeto
 • Instruções sobre como configurar e iniciar o projeto. Esta seção é dividida em

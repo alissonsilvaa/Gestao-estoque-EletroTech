@@ -16,8 +16,17 @@ administração de fornecedores.
 ### Tecnologias Utilizadas
 • Java e SQLite.
 ### Estrutura do Banco de Dados
-• Estrutura do banco de dados, as principais tabelas e
-seus atributos: Fornecedor, Produto, Fornecedor Produto, e Movimentação de Estoque.
+O Sistema de Gestão de Estoque EletroTech foi desenvolvido para gerenciar de forma eficiente o estoque de produtos e a relação com os fornecedores, permitindo às empresas manter um controle preciso sobre o fluxo de produtos, desde o recebimento e a movimentação de saída.
+
+Componentes:
+
+Cadastro de Fornecedores: Mantém um registro detalhado de todos os fornecedores, incluindo informações fiscais e comerciais. Isso permite à empresa rastrear e gerenciar suas relações comerciais com informações atualizadas e acessíveis.
+
+Registro de Produtos: Uma base de dados completa dos produtos, categorizando-os e descrevendo-os para facilitar a identificação, seleção e gestão de estoque.
+
+Controle de Movimentação de Estoque: Registra todas as movimentações de entrada e saída do estoque, fornecendo dados em tempo real sobre a disponibilidade de produtos, custos associados e datas de validade, o que é crucial para manter a integridade do inventário e evitar desperdícios.
+
+Associação Fornecedor-Produto: Uma tabela de associação que conecta produtos aos seus respectivos fornecedores, permitindo à empresa identificar rapidamente de onde os produtos estão vindo e para onde estão indo, o que é essencial para a gestão da cadeia de suprimentos e para negociações de compra.
 
 ![Modelagem_DB](https://github.com/alissonsilvaa/Gestao-estoque-EletroTech/blob/main/IMG/Modelagem_DB.jpeg)
 ### Configuração do Projeto

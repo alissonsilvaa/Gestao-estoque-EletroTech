@@ -17,8 +17,9 @@ administração de fornecedores.
 • Uma seção detalhando as tecnologias e ferramentas utilizadas no
 desenvolvimento do projeto, como Java, SQLite.
 ### Estrutura do Banco de Dados
-• Uma descrição da estrutura do banco de dados, incluindo as principais tabelas e
-seus atributos: Produtos, Estoque, Movimentações de Estoque, e Fornecedores.
+• Estrutura do banco de dados, as principais tabelas e
+seus atributos: Fornecedor, Produto, Fornecedor Produto, e Movimentação de Estoque.
+![Modelagem_DB](https://github.com/alissonsilvaa/Gestao-estoque-EletroTech/blob/main/IMG/Modelagem_DB.jpeg)
 ### Configuração do Projeto
 • Instruções sobre como configurar e iniciar o projeto. Esta seção é dividida em
 duas subseções:

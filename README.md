@@ -50,7 +50,7 @@ CREATE TABLE FORNECEDOR (
 );
 
 -- Criação da tabela de Produtos
-CREATE TABLE PRODUTO (
+CREATE TABLE PRODUTOS (
     Id INT PRIMARY KEY,
     Nome VARCHAR(30),
     Descricao VARCHAR(100),

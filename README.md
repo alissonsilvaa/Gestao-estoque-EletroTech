@@ -14,8 +14,7 @@ Estoque EletroTech e seus objetivos principais.
 controle de estoque, rastreamento de movimentações de estoque, e
 administração de fornecedores.
 ### Tecnologias Utilizadas
-• Uma seção detalhando as tecnologias e ferramentas utilizadas no
-desenvolvimento do projeto, como Java, SQLite.
+• Java e SQLite.
 ### Estrutura do Banco de Dados
 • Estrutura do banco de dados, as principais tabelas e
 seus atributos: Fornecedor, Produto, Fornecedor Produto, e Movimentação de Estoque.

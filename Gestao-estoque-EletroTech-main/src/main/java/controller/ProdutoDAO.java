@@ -59,7 +59,7 @@ public class ProdutoDAO { // DATA ACCESS OBJECTS
         Scanner sc = new Scanner(System.in);
         System.out.println("Informe o id do produto: ");
         int id = sc.nextInt();
-        System.out.print(String sql = "SELECT Id, Nome, Descricao, Categoria");
+        //System.out.print(String sql = "SELECT Id, Nome, Descricao, Categoria");
         System.out.println("Informe o nome do produto: ");
         String nome = sc.nextLine();
         System.out.println("Informe a descrição do produto: ");
